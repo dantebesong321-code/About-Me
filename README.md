@@ -30,6 +30,7 @@ Backend:
 - Node.js
 - Express.js
 - MongoDB
+- 
 
 Tools:
 
@@ -44,6 +45,4 @@ Seeking opportunities as a Frontend Developer, React Developer, UI Engineer, or 
 
 ## Let's Connect
 
-- LinkedIn
-- Portfolio Website
-- GitHub Projects
+- LinkedIn: https://www.linkedin.com/in/dante-besong-178878154/
