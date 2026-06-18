@@ -8,15 +8,11 @@ After more than 8 years working in design and digital storytelling, I transition
 
 I enjoy creating user-centered experiences using React, JavaScript, TypeScript, Node.js, Express, and MongoDB. My design background helps me approach development with a strong focus on usability, accessibility, and product thinking.
 
-## What I'm Working On
-
-- Building React and TypeScript applications
-- Developing full-stack MERN projects
-- Strengthening frontend architecture and UI engineering skills
-- Creating reusable components and design systems
-- Exploring modern product development workflows
-
 ## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
 
 Frontend:
 
@@ -40,6 +36,14 @@ Tools:
 - Figma
 - VS Code
 - Adobe Creative Suite
+
+## What I'm Working On
+
+- Building React and TypeScript applications
+- Developing full-stack MERN projects
+- Strengthening frontend architecture and UI engineering skills
+- Creating reusable components and design systems
+- Exploring modern product development workflows
 
 ## Current Goal
 
